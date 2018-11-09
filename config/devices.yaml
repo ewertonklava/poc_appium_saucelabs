@@ -4,7 +4,7 @@ devices:
          deviceName: "Nexus5"
          platformName: "Android"
          version: "7.0"
-         app: "/Users/inmetrics/Desktop/poc_mobile_livelo/app-release.apk"
+         app: "/Users/inmetrics/Desktop/poc_mobile_livelo/tdc_app.apk"
          appPackage: "com.android.launcher3"   
          appActivity: "com.android.launcher3.Launcher"
          newCommandTimeout: "3600"
