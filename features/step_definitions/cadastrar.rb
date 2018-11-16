@@ -23,7 +23,7 @@ Quando(/^efetuar o cadastro$/) do
 end
 
 Então(/^validar os dados do usuario cadastrado$/) do
-  @driver.wait_true(5) do
+  @driver.wait_true(20) do
     @driver.exists { driver.find_element(id:'alertTitle') }
   end
 end
