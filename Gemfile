@@ -6,3 +6,4 @@ gem 'rake'
 gem 'appium_lib'
 gem 'pry'
 gem 'faker'
+
